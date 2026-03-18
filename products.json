@@ -1,0 +1,100 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Camiseta Orgânica Básica",
+      "category": "clothing",
+      "price": 89.90,
+      "description": "Camiseta 100% algodão orgânico certificada, confortável e sustentável.",
+      "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?ixlib=rb-4.0.3&w=300"
+    },
+    {
+      "id": 2,
+      "name": "Calça Jeans Reciclada",
+      "category": "clothing",
+      "price": 189.90,
+      "description": "Calça feita com denim reciclado, estilo moderno e consciente.",
+      "image": "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?ixlib=rb-4.0.3&w=300"
+    },
+    {
+      "id": 3,
+      "name": "Vestido de Fibra de Bambu",
+      "category": "clothing",
+      "price": 159.90,
+      "description": "Vestido elegante feito com fibra de bambu, macio e termorregulador.",
+      "image": "https://images.unsplash.com/photo-1595777457583-95e059d581b8?ixlib=rb-4.0.3&w=300"
+    },
+    {
+      "id": 4,
+      "name": "Sabonete Natural de Lavanda",
+      "category": "beauty",
+      "price": 24.90,
+      "description": "Sabonete artesanal com óleo essencial de lavanda, vegano e cruelty-free.",
+      "image": "https://images.unsplash.com/photo-1612817281601-68d76b3a4a07?ixlib=rb-4.0.3&w=300"
+    },
+    {
+      "id": 5,
+      "name": "Shampoo Sólido de Aloe Vera",
+      "category": "beauty",
+      "price": 34.90,
+      "description": "Shampoo sólido sem plástico, com aloe vera e óleos naturais.",
+      "image": "https://images.unsplash.com/photo-1556228725-2d6b79d9bd2e?ixlib=rb-4.0.3&w=300"
+    },
+    {
+      "id": 6,
+      "name": "Creme Facial de Rosa Mosqueta",
+      "category": "beauty",
+      "price": 67.90,
+      "description": "Creme facial anti-idade com óleo de rosa mosqueta orgânico.",
+      "image": "https://images.unsplash.com/photo-1620916566398-39f1685e5884?ixlib=rb-4.0.3&w=300"
+    },
+    {
+      "id": 7,
+      "name": "Vaso Cerâmica Reciclada",
+      "category": "home",
+      "price": 45.90,
+      "description": "Vaso decorativo feito com cerâmica reciclada, perfeito para plantas.",
+      "image": "https://images.unsplash.com/photo-1485955900006-10cb4e0dbf43?ixlib=rb-4.0.3&w=300"
+    },
+    {
+      "id": 8,
+      "name": "Luminária Solar LED",
+      "category": "home",
+      "price": 125.90,
+      "description": "Luminária externa alimentada por energia solar, automática e econômica.",
+      "image": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?ixlib=rb-4.0.3&w=300"
+    },
+    {
+      "id": 9,
+      "name": "Jogo de Copos de Vidro Reciclado",
+      "category": "home",
+      "price": 78.90,
+      "description": "Conjunto de 6 copos feitos com vidro 100% reciclado.",
+      "image": "https://images.unsplash.com/photo-1514232226342-7645b6cff3c6?ixlib=rb-4.0.3&w=300"
+    },
+    {
+      "id": 10,
+      "name": "Carregador Solar Portátil",
+      "category": "tech",
+      "price": 189.90,
+      "description": "Carregador solar 20000mAh, ideal para atividades ao ar livre.",
+      "image": "https://images.unsplash.com/photo-1593642632820-c531daa4a24e?ixlib=rb-4.0.3&w=300"
+    },
+    {
+      "id": 11,
+      "name": "Fone de Ouvido de Bambu",
+      "category": "tech",
+      "price": 145.90,
+      "description": "Fones de ouvido wireless com estrutura de bambu sustentável.",
+      "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?ixlib=rb-4.0.3&w=300"
+    },
+    {
+      "id": 12,
+      "name": "Capa de Celular Biodegradável",
+      "category": "tech",
+      "price": 56.90,
+      "description": "Capa de celular compostável, proteção sustentável para seu dispositivo.",
+      "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?ixlib=rb-4.0.3&w=300"
+    }
+  ]
+}
