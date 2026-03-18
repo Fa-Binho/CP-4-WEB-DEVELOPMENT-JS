@@ -82,8 +82,7 @@ Navegadores modernos com suporte a:
 
 ## 👥 Desenvolvedor
 
-Fábio Alexandre Barbosa Filho RM: 567419
-
+Fábio Alexandre Barbosa Filho RM: 567419 
 Igor Davi Avelar Rosa Cesário RM: 568191
 
 ## 📸 Entrega
